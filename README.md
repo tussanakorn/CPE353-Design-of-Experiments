@@ -24,3 +24,6 @@ and response surface methodology.
 | Week 9  | 2k factorial design                           |                                      |
 | Week 10 | Fractional factorial design                   |                                      |
 | Week 11 | Project                                       |                                      |
+
+
+Get Slide https://drive.google.com/drive/folders/1CnA4uAHiDr2SSB4DMwavqpAAxhkGX3Ud?usp=sharing
