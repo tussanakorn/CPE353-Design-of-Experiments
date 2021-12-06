@@ -18,12 +18,12 @@ and response surface methodology.
 | Lecture 3  | Single-factor experiment (ANOVA)              | [lect03-anova](lect03-anova.ipynb)   |
 | Lecture 4  | Single-factor experiment (Blocking factors)   | [lect04-blocking](lect04-blocking.ipynb)|
 | Lecture 5  | Multi-factor experiments (factorial)          | [lect05-factorial](lect05-factorial.ipynb)|
-| Lecture 6  | Analysis of covariance                        | [lect05-factorial]            |
-| Lecture 7  | Random and mixed effect models                | [lect05-factorial]           |
-| Lecture 8  | Nested designs                                | [lect05-factorial]              |
-| Lecture 9  | 2k factorial design                           | [lect05-factorial]                   |
-| Lecture 10 | Fractional factorial design                   | [lect05-factorial]                |
-| Lecture 11 | Project                                       |                                      |
+| Lecture 6  | Analysis of covariance                        | [lect06-ancova](lect06-ancova.ipynb)   |
+| Lecture 7  | Random and mixed effect models                | No Code           |
+| Lecture 8  | Nested designs                                | [lect08-nested-design](lect08-nested-design.ipynb) |
+| Lecture 9  | 2k factorial design                           | [lect09-2k-factorial](lect09-2k-factorial.ipynb)   |
+| Lecture 10 | Fractional factorial design                   | No Code                |
+| Lecture 11 | Project                                       | [project](https://github.com/tussanakorn/2k_fractional-factorial-design)|
 
 
 
