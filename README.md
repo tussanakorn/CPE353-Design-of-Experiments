@@ -11,19 +11,19 @@ and response surface methodology.
 
 ## Course Schedule
 
-| Week    | Topics                                        | Coding Lab                           |
+| Lecture    | Topics                                        | Coding Lab                           |
 | ------- | --------------------------------------------- | ------------------------------------ |
-| Week 1  | Introduction                                  | No Code                              |
-| Week 2  | Multiple linear regression                    | [lect02-lin-reg](lect02-lin-reg.ipynb)|
-| Week 3  | Single-factor experiment (ANOVA)              | [lect03-anova](lect03-anova.ipynb)   |
-| Week 4  | Single-factor experiment (Blocking factors)   | [lect04-blocking](lect04-blocking.ipynb)|
-| Week 5  | Multi-factor experiments (factorial)          | [lect05-factorial](lect05-factorial.ipynb)|
-| Week 6  | Analysis of covariance                        |                                      |
-| Week 7  | Random and mixed effect models                |                                      |
-| Week 8  | Nested designs                                |                                      |
-| Week 9  | 2k factorial design                           |                                      |
-| Week 10 | Fractional factorial design                   |                                      |
-| Week 11 | Project                                       |                                      |
+| Lecture 1  | Introduction                                  | No Code                              |
+| Lecture 2  | Multiple linear regression                    | [lect02-lin-reg](lect02-lin-reg.ipynb)|
+| Lecture 3  | Single-factor experiment (ANOVA)              | [lect03-anova](lect03-anova.ipynb)   |
+| Lecture 4  | Single-factor experiment (Blocking factors)   | [lect04-blocking](lect04-blocking.ipynb)|
+| Lecture 5  | Multi-factor experiments (factorial)          | [lect05-factorial](lect05-factorial.ipynb)|
+| Lecture 6  | Analysis of covariance                        | [lect05-factorial]            |
+| Lecture 7  | Random and mixed effect models                | [lect05-factorial]           |
+| Lecture 8  | Nested designs                                | [lect05-factorial]              |
+| Lecture 9  | 2k factorial design                           | [lect05-factorial]                   |
+| Lecture 10 | Fractional factorial design                   | [lect05-factorial]                |
+| Lecture 11 | Project                                       |                                      |
 
 
-Get Slide https://drive.google.com/drive/folders/1CnA4uAHiDr2SSB4DMwavqpAAxhkGX3Ud?usp=sharing
+
