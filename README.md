@@ -1,4 +1,4 @@
-# CPE353 – Design of Experiments (1/64)
+# CPE353 – Design of Experiments (1/64) KMUTT
 This was part of the lab and homework I learned from CPE353.
 
 ### Instructor : Assoc.Prof. Peerapon Siripongwutikorn, Ph.D.
